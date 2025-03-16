@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color:rgb(107, 187, 189);
+    background:linear-gradient(#544a7d,#ffd452,#005AA7,#FFFDE4,#DECBA4,#3E5151)
 }
 
 nav{
@@ -48,7 +48,7 @@ nav ul{
 }
 
 .tictactoeBox:hover {
-    background-color: rgb(26, 151, 86);
+    background-color:rgba(153,233,148,100)
 }
 
 .tictactoeInfoText {
@@ -118,7 +118,7 @@ nav ul{
 }
 
 #resetGame:hover {
-    background-color: rgba(201, 170, 96, 0.8);
+    background-color: rgba(170,240,160,10);
 }
 
 .tictactoeLine {
