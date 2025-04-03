@@ -6,7 +6,7 @@
 }
 
 body{
-    background:linear-gradient(#544a7d,#ffd452,#005AA7,#FFFDE4,#DECBA4,#3E5151)
+    background:skyblue
 }
 
 nav{
@@ -48,7 +48,7 @@ nav ul{
 }
 
 .tictactoeBox:hover {
-    background-color:rgba(153,233,148,100)
+    background-color:#911d91;
 }
 
 .tictactoeInfoText {
