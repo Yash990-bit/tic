@@ -1,4 +1,4 @@
-Features
+# Features
 Two-player gameplay: Alternating turns between players X and O.
 Winner detection: Detects the winner and highlights the winning line.
 Reset functionality: A reset button to restart the game.
